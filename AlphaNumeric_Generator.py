@@ -207,6 +207,7 @@ while t<len(status_list):
 print(string)
 result = decrypt(string) 
 
+#Removing the Underscore _
 text = result
 
 t = []
