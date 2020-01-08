@@ -13,7 +13,13 @@ You can install these packages by following command.
 ```
 pip install opencv-python
 pip install numpy
-pip install dlib
+pip install dlib-19.8.1-cp36-cp36m-win_amd64.whl
 ```
+dlib version must be installed as per Python version and configuration.
+To check Python Version
+```
+python --version
+```
+Check this [URL](https://pypi.org/simple/dlib/) for dlib version.
 
 
