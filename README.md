@@ -23,8 +23,8 @@ python --version
 Check this [URL](https://pypi.org/simple/dlib/) for dlib version.
 
 ### Demo
-![](demo/demo.gif)
-The blink corresponds to "HI"
+![The blink corresponds to "HI"](demo/demo.gif)
+
 
 
 
