@@ -22,7 +22,5 @@ python --version
 ```
 Check this [URL](https://pypi.org/simple/dlib/) for dlib version.
 
-### Demo
-[Working](demo/demo_blinker.wmv)
 
 
