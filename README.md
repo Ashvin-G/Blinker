@@ -25,6 +25,9 @@ Check this [URL](https://pypi.org/simple/dlib/) for dlib version.
 ### Demo
 ![](demo/demo.gif)
 
+### References
+Check this [Geeks for Geeks](https://www.geeksforgeeks.org/morse-code-translator-python/) website to understand better working of Morse Code translator.
+
 
 
 
