@@ -23,6 +23,7 @@ $ python --version
 Check this [URL](https://pypi.org/simple/dlib/) for dlib version.
 
 ### Demo
+Here im typing "Hi" by blinking my Eyes.
 ![](demo/demo.gif)
 
 ### References
