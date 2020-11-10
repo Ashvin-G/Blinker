@@ -27,7 +27,7 @@ Here im typing "Hi" by blinking my Eyes.
 ![](demo/demo.gif)
 
 ### References
-Check this [Geeks for Geeks](https://www.geeksforgeeks.org/morse-code-translator-python/ target="_blank") website to understand better working of Morse Code translator.
+Check this [Geeks for Geeks](https://www.geeksforgeeks.org/morse-code-translator-python/) website to understand better working of Morse Code translator.
 
 
 
